@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1821,5): warning : The referenced project '..\FileSystemDemo\FileSystemDemo.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1821,5): warning : The referenced project '..\NoSqlDb\DateTime\DateTime.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1821,5): warning : The referenced project '..\NoSqlDb\XmlDocument\XmlDocument\XmlDocument.vcxproj' does not exist.
+  CheckIn.cpp
+  CheckIn.vcxproj -> C:\Users\Flourite\Documents\Project4Demo\Debug\CheckIn.lib

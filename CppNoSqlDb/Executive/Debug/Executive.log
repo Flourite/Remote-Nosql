@@ -1,0 +1,10 @@
+﻿  Executive.cpp
+  StringUtilities.cpp
+  Query.cpp
+  Persist.cpp
+  Edit.cpp
+  DbCore.cpp
+  DateTime.cpp
+  Generating Code...
+Edit.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Executive.vcxproj -> C:\Users\Flourite\Documents\Project4Demo\CppNoSqlDb\Debug\Executive.lib
